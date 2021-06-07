@@ -1,3 +1,3 @@
 # rental-property-profits-calculator
 
-An "estimated profits" calculator for people trying to decide whether to buy a rental property. Written in Python.
+A calculator to help you determine whether buying a rental property will be profitable. Written in Python.
